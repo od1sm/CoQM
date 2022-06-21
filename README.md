@@ -94,6 +94,6 @@ Project Link: [https://github.com/od1sm/CoQM](https://github.com/od1sm/CoQM)
 
 [contributors-shield]: https://img.shields.io/github/contributors/od1sm/repo_name.svg?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/od1sm/CoQM/blob/main/LICENSE.md
+[license-url]: https://github.com/od1sm/CoQM/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/odysseas-a-217226223
