@@ -16,9 +16,9 @@
 <p align="center">
   <img width="150" height="150" src="https://www.auth.gr/wp-content/uploads/LogoAUTHwhite72ppi.png#gh-dark-mode-only">
 </p>
-<p align="center">
+<!-- <p align="center">
   <img width="150" height="150" src="https://www.auth.gr/wp-content/uploads/LogoAUTHblack72ppi.png#gh-light-mode-only">
-</p>
+</p> -->
 <div align="center">
 
 <h3 align="center">Computational quantum physics and applications</h3>
@@ -36,12 +36,13 @@
   </p>
 </div>
 <!-- </div> -->
-//<!-- </div> -->
+<!-- </div> -->
 <!-- TABLE OF CONTENTS -->
 <!-- TOC start -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    
 - [About the repository](#about-the-repository)
 - [License](#license)
 - [Contact](#contact)
